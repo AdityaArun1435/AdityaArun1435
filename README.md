@@ -6,6 +6,7 @@ I build things that look at the world and reason about it: an LLM agent that che
 
 | Project | What it does | Built with |
 |---|---|---|
+| [PlaceIQ](https://placeiq-ashen.vercel.app) | Student-facing placement intelligence platform. Live site only, the code is private | Next.js, Python |
 | [research-assistant-agent](https://github.com/AdityaArun1435/research-assistant-agent) | Answers questions by searching arXiv, Semantic Scholar and Wikipedia, then verifies every citation against what it actually retrieved | Python, tool calling |
 | [handyman-community](https://github.com/AdityaArun1435/handyman-community) | Finds and books local handymen in ECR, Chennai, with realtime chat and reviews. [Live](https://handyman-community.vercel.app) | Next.js, Supabase |
 | [goal-portal](https://github.com/AdityaArun1435/goal-portal) | Goal tracking portal with admin and employee roles, built for AtomQuest Hackathon 1.0. [Live](https://goal-portal-fawn.vercel.app) | Next.js, Supabase, Three.js |
